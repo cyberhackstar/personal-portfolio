@@ -1,38 +1,38 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
-        title: "Inbio - Personal Portfolio React Template",
-        description: "Awesome Gatsby template",
-        author: "Rainbow IT",
+        siteUrl: "https://www.bhawesh.netlify.app",
+        title: "Bhawesh Sharma",
+        description: "Personal Portfolio of Bhawesh Sharma",
+        author: "Bhawesh Sharma",
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "inbio",
         twitterUsername: "@rainbowit",
         getform_url:
-            "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
+            "https://getform.io/f/4b8b0d64-aa13-4618-8ab2-19450a43a829",
         socials: [
             {
                 id: 1,
                 title: "facebook",
-                path: "https://facebook.com",
+                path: "https://www.facebook.com/bikku.sharma.9",
                 icon: "Facebook",
             },
             {
                 id: 2,
                 title: "instagram",
-                path: "https://instagram.com",
+                path: "https://www.instagram.com/bhaweshsharma_/",
                 icon: "Instagram",
             },
             {
                 id: 3,
                 title: "linkedin",
-                path: "https://linkedin.com",
+                path: "https://linkedin.com/in/bhaweshsharma",
                 icon: "Linkedin",
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "917742261033",
+            email: "sharma2001bhawesh@gmail.com",
         },
     },
     plugins: [

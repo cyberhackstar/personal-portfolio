@@ -1,16 +1,21 @@
 {
-    "title": "instructor-home",
+    "title": "default-white-home",
     "content": [
         {
-            "id": "instructor-home-hero",
+            "id": "default-home-hero",
             "section": "hero-section",
             "headings": [
                 {
                     "content": "WELCOME TO MY WORLD"
                 },
                 {
-                    "content": "Hi, I’m <span>John Lee</span><br><span class='span'> Teacher.</span>"
+                    "content": "Hi, I’m <span>Bhawesh       Sharma</span>"
                 }
+            ],
+            "animated_texts": [
+                "Developer.",
+                "Professional Coder.",
+                "Designer."
             ],
             "texts": [
                 {
@@ -45,13 +50,13 @@
             ],
             "images": [
                 {
-                    "src": "../images/slider/banner-05.png",
+                    "src": "../images/slider/banner-01.png",
                     "alt": "Personal Portfolio Images"
                 }
             ]
         },
         {
-            "id": "instructor-home-services",
+            "id": "default-home-services",
             "section": "service-section",
             "section_title": {
                 "title": "What I Do",
@@ -103,7 +108,7 @@
             ]
         },
         {
-            "id": "instructor-home-portfolio",
+            "id": "default-home-portfolio",
             "section": "portfolio-section",
             "section_title": {
                 "title": "My Portfolio",
@@ -233,15 +238,15 @@
             ]
         },
         {
-            "id": "instructor-home-resume",
+            "id": "default-home-resume",
             "section": "resume-section",
             "section_title": {
                 "title": "My Resume",
-                "subtitle": "7+ Years of Experience"
+                "subtitle": "3+ Years of Experience"
             }
         },
         {
-            "id": "instructor-home-education",
+            "id": "default-home-education",
             "section": "education-section",
             "title": "Education",
             "inner": [
@@ -308,12 +313,12 @@
             ]
         },
         {
-            "id": "instructor-home-skill",
+            "id": "default-home-skill",
             "section": "skill-section",
             "title": "professional Skills",
             "inner": [
                 {
-                    "id": "instructor-home-skill-left",
+                    "id": "default-home-skill-left",
                     "section_title": {
                         "title": "Design Skill",
                         "subtitle": "Features"
@@ -347,7 +352,7 @@
                     ]
                 },
                 {
-                    "id": "instructor-home-skill-right",
+                    "id": "default-home-skill-right",
                     "section_title": {
                         "title": "Design Skill",
                         "subtitle": "Features"
@@ -383,12 +388,12 @@
             ]
         },
         {
-            "id": "instructor-home-experience",
+            "id": "default-home-experience",
             "section": "experience-section",
             "title": "experience",
             "inner": [
                 {
-                    "id": "instructor-home-experience-left",
+                    "id": "default-home-experience-left",
                     "section_title": {
                         "title": "Education Quality",
                         "subtitle": "2007 - 2010"
@@ -418,7 +423,7 @@
                     ]
                 },
                 {
-                    "id": "instructor-home-section-right",
+                    "id": "default-home-section-right",
                     "section_title": {
                         "title": "Job Experience",
                         "subtitle": "2007 - 2010"
@@ -450,12 +455,12 @@
             ]
         },
         {
-            "id": "instructor-home-interview",
+            "id": "default-home-interview",
             "section": "interview-section",
             "title": "interview",
             "inner": [
                 {
-                    "id": "instructor-home-experience-left",
+                    "id": "default-home-experience-left",
                     "section_title": {
                         "title": "Company Experience",
                         "subtitle": "2007 - 2010"
@@ -485,7 +490,7 @@
                     ]
                 },
                 {
-                    "id": "instructor-home-section-right",
+                    "id": "default-home-section-right",
                     "section_title": {
                         "title": "Job Experience",
                         "subtitle": "2007 - 2010"
@@ -517,7 +522,7 @@
             ]
         },
         {
-            "id": "instructor-home-testimonial",
+            "id": "default-home-testimonial",
             "section": "testimonial-section",
             "section_title": {
                 "title": "Testimonial",
@@ -572,7 +577,7 @@
             ]
         },
         {
-            "id": "instructor-home-clients",
+            "id": "default-home-clients",
             "section": "client-section",
             "section_title": {
                 "title": "Awesome Clients",
@@ -589,7 +594,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -599,7 +604,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -609,7 +614,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -619,7 +624,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -629,7 +634,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -639,7 +644,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -649,7 +654,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -659,7 +664,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -669,7 +674,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -679,7 +684,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -689,7 +694,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -699,7 +704,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -715,7 +720,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -725,7 +730,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -735,7 +740,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -745,7 +750,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -755,7 +760,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -765,7 +770,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -775,7 +780,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -785,7 +790,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -795,7 +800,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -805,7 +810,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -815,7 +820,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -825,7 +830,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -841,7 +846,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -851,7 +856,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -861,7 +866,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -871,7 +876,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -881,7 +886,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -891,7 +896,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -901,7 +906,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -911,7 +916,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -921,7 +926,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -931,7 +936,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -941,7 +946,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -951,7 +956,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -967,7 +972,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -977,7 +982,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -987,7 +992,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -997,7 +1002,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -1007,7 +1012,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1017,7 +1022,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1027,7 +1032,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1037,7 +1042,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -1047,7 +1052,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1057,7 +1062,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1067,7 +1072,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1077,7 +1082,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -1093,7 +1098,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1103,7 +1108,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -1113,7 +1118,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -1123,7 +1128,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -1133,7 +1138,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1143,7 +1148,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1153,7 +1158,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1163,7 +1168,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -1173,7 +1178,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1183,7 +1188,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1193,7 +1198,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1203,7 +1208,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -1219,7 +1224,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1229,7 +1234,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -1239,7 +1244,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         },
@@ -1249,7 +1254,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/brand-04.png"
                                 }
                             ]
                         },
@@ -1259,7 +1264,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1269,7 +1274,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1279,7 +1284,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1289,7 +1294,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/brand-02.png"
                                 }
                             ]
                         },
@@ -1299,7 +1304,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1309,7 +1314,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/brand-05.png"
                                 }
                             ]
                         },
@@ -1319,7 +1324,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/brand-01.png"
                                 }
                             ]
                         },
@@ -1329,7 +1334,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/brand-03.png"
                                 }
                             ]
                         }
@@ -1338,7 +1343,7 @@
             ]
         },
         {
-            "id": "instructor-home-pricing",
+            "id": "default-home-pricing",
             "section": "pricing-section",
             "section_title": {
                 "title": "My Pricing",
@@ -1570,7 +1575,7 @@
             ]
         },
         {
-            "id": "instructor-home-blog",
+            "id": "default-home-blog",
             "section": "blog-section",
             "section_title": {
                 "title": "My Blog",
@@ -1578,7 +1583,7 @@
             }
         },
         {
-            "id": "instructor-home-contact",
+            "id": "default-home-contact",
             "section": "contact-section",
             "section_title": {
                 "title": "Contact With Me",
@@ -1591,10 +1596,10 @@
             ],
             "headings": [
                 {
-                    "content": "Nevine Acotanza"
+                    "content": "Bhawesh Sharma"
                 },
                 {
-                    "content": "Chief Operating Officer"
+                    "content": "Cyber Security Expert & Web Developer"
                 }
             ],
             "texts": [
